@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ocalvet/open-science-web/issues"
   },
-  "homepage": "https://github.com/ocalvet/open-science-web#readme"
+  "homepage": "https://github.com/ocalvet/open-science-web#readme",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
 }
