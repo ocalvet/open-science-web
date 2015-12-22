@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ocalvet/open-science-web#readme",
   "dependencies": {
-    "http-server": "^0.8.5"
+    "express": "^4.13.3"
   }
 }
